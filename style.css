@@ -20,7 +20,9 @@ div {
   text-align: center;
 }
 
-table, th, td {
+table {
+  width: 100%;
+  border-collapse: collapse;
   border: 1.5px solid blue;
   color: blue;
   text-align: center;
